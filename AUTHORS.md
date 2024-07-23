@@ -91,17 +91,17 @@ In order of appearance in the companion contribution to the Maresec conference t
 
 ## Tommaso Dorigo (@tdorigo)
 
-### 2021 - present. INFN-Padova, Italy.
+### 2021 - present. INFN-Padova, Italy and Lulea University of Technology, Sweden
 
 <img src="author_info//tommaso.png" style="width:auto;height:100px" />
 
 ### Code contributions:
 
-- add
+- Assitance, advice, and information concerning analysis aspects
 
 ### Other roles:
 
-- add
+- Meeting attendance
 
 ## Andrea Giammanco (@giamman)
 
